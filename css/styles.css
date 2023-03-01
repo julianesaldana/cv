@@ -65,6 +65,7 @@ h3 {
     color: #11999E;
 }
 
+
 .top-container {
     background-color: #EAF6F6;
     margin: 0;
@@ -95,24 +96,35 @@ h3 {
     top: 40px;
 }
 
-.skill-row {
+.skill-row1 {
     width: 50%;
-    margin: 100px auto 100px auto;
+    margin: 100px auto 200px auto;
     text-align: left;
     line-height: 2;
 }
 
-.skill1-img {
-    width: 25%;
+.skill-row2 {
+    width: 50%;
+    margin: 100px auto 200px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+
+.skill-img1 {
+    width: 15%;
+    height: 15%;
     float: left;
     margin-right: 30px;
 }
 
-.skill2-img {
-    width: 25%;
+.skill-img2 {
+    width: 15%;
+    height: 15%;
     float: right;
     margin-left: 30px;
 }
+
 
 .dot {
     height: 10px;
@@ -120,8 +132,7 @@ h3 {
     background-color: #b7c4c4;
     border-radius: 50%;
     display: inline-block;
-    margin-bottom: 100px;
-    margin-top: 30px;
+    margin: 75px auto 75px auto;
 }
 
 .profile {
